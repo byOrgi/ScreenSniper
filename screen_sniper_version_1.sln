@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screen_sniper_version_1", "screen_sniper_version_1\screen_sniper_version_1.csproj", "{102B7DBD-F910-43D9-B31F-F3FACE9B57EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102B7DBD-F910-43D9-B31F-F3FACE9B57EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102B7DBD-F910-43D9-B31F-F3FACE9B57EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102B7DBD-F910-43D9-B31F-F3FACE9B57EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102B7DBD-F910-43D9-B31F-F3FACE9B57EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB08E2A-405F-475E-9FDA-7F6F36F4BD5A}
+	EndGlobalSection
+EndGlobal

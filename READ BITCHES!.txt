@@ -1,0 +1,28 @@
+*****IF YOU USE PARTS OF THIS PROGRAM OR YOU USE MY INTERFACE IDEAS, PLEASE GIVE ME CREDIT! Making it open source to help people!!!!*****
+
+
+
+\\About the Program
+
+Welcome! Heard about microsoft encoder so i thought why the hell not, started tweaking with it and built a highly advanced and lightning
+fast Screen Recorder! Has a lot of functions other recorders don't. although this program is pretty much completed and everything runs and
+works %100, i would like to make it open sourced to show others how i completed it, and if i get back to it i would like to make it even
+more advanced! I thought i did pretty good seeing as how this is my first published program. let me know what you think! all feedback is 
+appreciated. 
+
+
+\\Program Information
+
+.NET framework
+Microsoft Encoder
+bunifu and stock tool kit
+
+Highly detailed source with written lines explaining what i wrote/did.
+Took me 2 days start to finish.
+
+
+Created by: Orgi
+December 24th, 2018
+
+
+Need help with it? email me at: nulled@mail.com
