@@ -4,10 +4,9 @@
 
 \\About the Program
 
-Welcome! Heard about microsoft encoder so i thought why the hell not, started tweaking with it and built a highly advanced and lightning
+Welcome! Heard about microsoft encoder 4 so i thought why the hell not, started tweaking with it and built a highly advanced and lightning
 fast Screen Recorder! Has a lot of functions other recorders don't. although this program is pretty much completed and everything runs and
-works %100, i would like to make it open sourced to show others how i completed it, and if i get back to it i would like to make it even
-more advanced! I thought i did pretty good seeing as how this is my first published program. let me know what you think! all feedback is 
+works %100, i would like to make it open sourced to show others how i completed it, let me know what you think! all feedback is 
 appreciated. 
 
 
